@@ -40,7 +40,7 @@ runner = ->
     {
       short: "e"
       long: "exts",
-      description: "An array of extensions you want to observe. An example 'jade scss' (quotes are required). In addition to the defaults (html, css, js, png, gif, jpg, php, php5, py, rb, erb, and \"coffee.\").",
+      description: "An array of extensions you want to observe. An example 'jade, scss' (quotes are required). In addition to the defaults (html, css, js, png, gif, jpg, php, php5, py, rb, erb, and \"coffee.\").",
       required: false,
       value: true
     }
